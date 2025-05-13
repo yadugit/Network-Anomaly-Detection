@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/ypawar/DocumentsOneD/Course/Scaler/project_NAD/Network-Anomaly-Detection-main/mlruns/397453984318345830/040ae528c2a0405089227b42bf6dd203/artifacts
+deleted_time: 1747056638559
+end_time: 1747045048701
+entry_point_name: ''
+experiment_id: '397453984318345830'
+lifecycle_stage: deleted
+run_id: 040ae528c2a0405089227b42bf6dd203
+run_name: xgb_n250_d20_l.07
+run_uuid: 040ae528c2a0405089227b42bf6dd203
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747044952249
+status: 3
+tags: []
+user_id: ypawar
