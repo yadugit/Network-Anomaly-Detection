@@ -42,7 +42,7 @@ The dashboard provides insights into network behavior and helps in monitoring fo
 
 ## App Functionality
 
-The [Streamlit app](https://network-anomaly-detection-sg77zxvsfhhr7rjos85twm.streamlit.app/) offers:
+The [Streamlit app](https://network-anomaly-detection-dmbvarkewhxda58hwiiuel.streamlit.app/) offers:
 
 - Login Page:
 	- Username: user
